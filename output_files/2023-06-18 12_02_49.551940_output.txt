@@ -1,0 +1,316 @@
+
+               Input is: Q0
+ 
+               Remaining Height is: 2
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+QQ########
+QQ########
+               ---- 
+               Input is: Q0,Q1
+ 
+               Remaining Height is: 4
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+#QQ#######
+#QQ#######
+QQ########
+QQ########
+               ---- 
+               Input is: Q0,Q2,Q4,Q6,Q8
+ 
+               Remaining Height is: 0
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+               ---- 
+               Input is: Q0,Q2,Q4,Q6,Q8,Q1
+ 
+               Remaining Height is: 2
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+#QQ#######
+#QQ#######
+               ---- 
+               Input is: Q0,Q2,Q4,Q6,Q8,Q1,Q1
+ 
+               Remaining Height is: 4
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+#QQ#######
+#QQ#######
+#QQ#######
+#QQ#######
+               ---- 
+               Input is: I0,I4,Q8
+ 
+               Remaining Height is: 1
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+########QQ
+##########
+               ---- 
+               Input is: I0,I4,Q8,I0,I4
+ 
+               Remaining Height is: 1
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+########QQ
+IIIIIIII##
+               ---- 
+               Input is: L0,J2,L4,J6,Q8
+ 
+               Remaining Height is: 1
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+L##JL##J##
+L##JL##JQQ
+##########
+               ---- 
+               Input is: L0,Z1,Z3,Z5,Z7
+ 
+               Remaining Height is: 3
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+LZZZZZZZZ#
+L#ZZZZZZZZ
+LL########
+               ---- 
+               Input is: T0,T3
+ 
+               Remaining Height is: 2
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+TTTTTT####
+#T##T#####
+               ---- 
+               Input is: T0,T3,I6,I6
+ 
+               Remaining Height is: 2
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+TTTTTTIIII
+#T##T#IIII
+               ---- 
+               Input is: I0,I6,S4
+ 
+               Remaining Height is: 1
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+#####SS###
+##########
+               ---- 
+               Input is: T1,Z3,I4
+ 
+               Remaining Height is: 4
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+####IIII##
+###ZZ#####
+#TTTZZ####
+##T#######
+               ---- 
+               Input is: L0,J3,L5,J8,T1
+ 
+               Remaining Height is: 3
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+LTTTJL###J
+L#T#JL###J
+LL#JJLL#JJ
+               ---- 
+               Input is: L0,J3,L5,J8,T1,T6
+ 
+               Remaining Height is: 3
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+##########
+LTTTJLTTTJ
+L#T#JL#T#J
+LL#JJLL#JJ
+               ---- 
+               Input is: L0,J3,L5,J8,T1,T6,J2,L6,T0,T7
+ 
+               Remaining Height is: 5
+               Board is: 
+               ##########
+##########
+##########
+##########
+###J##L###
+TTTJ##LTTT
+#TJJ##LLT#
+L#T#JL#T#J
+LL#JJLL#JJ
+##########
+               ---- 
+               Input is: L0,J3,L5,J8,T1,T6,J2,L6,T0,T7,Q4
+ 
+               Remaining Height is: 5
+               Board is: 
+               ##########
+##########
+##########
+##########
+###J##L###
+TTTJQQLTTT
+#TJJQQLLT#
+L#T#JL#T#J
+LL#JJLL#JJ
+##########
+               ---- 
+               Input is: S0,S2,S4,S6
+ 
+               Remaining Height is: 3
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##########
+###SS#####
+##SS#SSSS#
+#SS#SSSS##
+SS########
+               ---- 
+               Input is: S0,S2,S4,S5,Q8,Q8,Q8,Q8,T1,Q1,I0,Q4
+ 
+               Remaining Height is: 6
+               Board is: 
+               ##########
+##########
+IIII####QQ
+#QQ#####QQ
+#QQ#QQ##QQ
+#TTTQQSSQQ
+##TSSSS#QQ
+##SS#SS#QQ
+#SS#SS##QQ
+SS######QQ
+               ---- 
+               Input is: L0,J3,L5,J8,T1,T6,S2,Z5,T0,T7
+ 
+               Remaining Height is: 5
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+TTTSSZZTTT
+#TSS##ZZT#
+LTTTJLTTTJ
+L#T#JL#T#J
+LL#JJLL#JJ
+               ---- 
+               Input is: Q0,I2,I6,I0,I6,I6,Q2,Q4 
+ 
+               Remaining Height is: 2
+               Board is: 
+               ##########
+##########
+##########
+##########
+##########
+##QQ######
+##QQ######
+IIII######
+QQ##QQIIII
+####QQIIII
+               ---- 
